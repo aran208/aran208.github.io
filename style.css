@@ -3,11 +3,6 @@ body {
   font: 1em/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: LightSlateGray;
 }
-.carousel-item img{
- height: auto;
- width: auto;
-  max-height: 700px;
-}
 .fa fa{
 font-size: 36px;
 }
