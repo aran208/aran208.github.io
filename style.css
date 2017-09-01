@@ -1,13 +1,14 @@
 
 body {
   font: 1em/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: LightSlateGray;
 }
 #contact{
 background-color: "MistyRose";
 background-repeat: no-repeat;
 background-size:cover;
 }
-.carousel-item{
+.carousel-item img{
  height: auto;
  width: auto;
  overflow: hidden;
