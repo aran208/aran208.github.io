@@ -13,6 +13,9 @@ background-size:cover;
 }
 #d-block{
  width: auto;
- height: auto;
+ height: 500px;
+ max-height: 500px;
 }
-
+#fa fa{
+font-size: 36px;
+}
