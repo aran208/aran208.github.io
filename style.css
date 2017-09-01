@@ -11,3 +11,9 @@ background-color: "MistyRose";
 background-repeat: no-repeat;
 background-size:cover;
 }
+#d-block{
+ width: auto;
+ height: 225px;
+ max-height: 225px;
+}
+
