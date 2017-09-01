@@ -1,7 +1,4 @@
 
-.jumbotron{
-background: url(aran208.github.io/media/Barbies.jpg) no-repeat center cover;
-}
 body {
   color: LightSlateGray;
   font: 1em/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -12,9 +9,9 @@ background-repeat: no-repeat;
 background-size:cover;
 }
 #d-block{
+ height: auto;
  width: auto;
- height: 500px;
- max-height: 500px;
+ overflow: hidden;
 }
 #fa fa{
 font-size: 36px;
