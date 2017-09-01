@@ -11,7 +11,6 @@ background-size:cover;
 .carousel-item img{
  height: auto;
  width: auto;
- overflow: hidden;
  margin: 0 auto;
 }
 .fa fa{
