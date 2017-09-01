@@ -12,6 +12,8 @@ background-size:cover;
  height: auto;
  width: auto;
  overflow: hidden;
+ margin: 0 auto;
+ background-color: "blue"; 
 }
 #fa fa{
 font-size: 36px;
