@@ -6,13 +6,13 @@ body {
 .carousel-item img{
  height: auto;
  width: auto;
- position: absolute;
-  max-height: 800px;
+  max-height: 700px;
 }
 .fa fa{
 font-size: 36px;
 }
 #contact{
 background-color: MistyRose;
-padding: 39px;   
+padding: 35px;   
+margin: 35px;  
 }
