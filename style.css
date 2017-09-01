@@ -6,8 +6,6 @@ body {
 .carousel-item img{
  height: auto;
  width: auto;
- margin: 0 auto;
- padding:5;
 }
 .fa fa{
 font-size: 36px;
