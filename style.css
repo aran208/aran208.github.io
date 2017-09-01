@@ -1,6 +1,5 @@
-.main-header{
-  padding-top: 170px;
-  height: 850px;
-  background:url("aran208.github.io/media/Arantxa.JPG") no-repeat center;
-  background-size: cover;
+
+.jumbotron{
+background-image: url("aran208.github.io/media/Header.JPG") no-repeat center;
+background-size: cover;
 }
