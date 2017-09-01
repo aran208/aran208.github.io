@@ -8,13 +8,12 @@ background-color: "MistyRose";
 background-repeat: no-repeat;
 background-size:cover;
 }
-#carousel-item{
+.carousel-item{
  height: auto;
  width: auto;
  overflow: hidden;
  margin: 0 auto;
- background-color: "blue"; 
 }
-#fa fa{
+.fa fa{
 font-size: 36px;
 }
