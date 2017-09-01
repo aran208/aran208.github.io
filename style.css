@@ -1,8 +1,11 @@
 
 .jumbotron{
-background: url("aran208.github.io/media/Header.JPG") no-repeat center cover;
+background: url("../aran208.github.io/media/Header.JPG") no-repeat center cover;
 }
 body {
   color: LightSlateGray;
   font: 1em/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#contact{
+background: "MistyRose" no-repeat cover;
 }
