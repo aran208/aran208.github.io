@@ -8,7 +8,7 @@ background-color: "MistyRose";
 background-repeat: no-repeat;
 background-size:cover;
 }
-#d-block{
+#carousel-item{
  height: auto;
  width: auto;
  overflow: hidden;
