@@ -6,8 +6,9 @@ body {
 .fa fa{
 font-size: 36px;
 }
-#contact{
-background-color: MistyRose;
-padding: 35px;   
-margin: 35px;  
+.carousel-item img{
+height: auto;
+width: auto;
+margin: 0 auto;
+max-height: 700px;
 }
